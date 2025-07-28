@@ -117,7 +117,6 @@
 *.ld.aurelius.host/
 *.le.laplink.com/
 *.learn.microsoft.com/
-*.level.io/
 *.litemanager.com/
 *.live.screenconnect.com/
 *.logicnow.com/
@@ -343,7 +342,6 @@ kickidler.com/
 ld.aurelius.host/
 le.laplink.com/
 learn.microsoft.com/
-level.io/
 litemanager.com/
 live.screenconnect.com/
 logicnow.com/
