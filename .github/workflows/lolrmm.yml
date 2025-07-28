@@ -30,7 +30,7 @@ jobs:
           $data = Invoke-RestMethod "https://lolrmm.io/api/rmm_tools.json"
           $filtered = $data | Where-Object {$_.Name -notin $bypass}
           $domains = $filtered.artifacts.network.domains
-          $domains  | Sort-Object -Unique | Out-File -FilePath "output/marshfield-domains.txt" -Force
+          $domains  | Sort-Object -Unique | Out-File -FilePath "domains-marshfield.txt" -Force
 
       # Commit Changes
       - name: Commit and push if changed
