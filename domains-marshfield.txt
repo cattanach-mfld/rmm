@@ -189,7 +189,6 @@
 *.skyfex.com/
 *.sorillus.com/
 *.soti.net/
-*.splashtop.com/
 *.spyanywhere.com/
 *.sunlogin.oray.com/
 *.superops.ai/
@@ -413,7 +412,6 @@ site24x7.com/
 skyfex.com/
 sorillus.com/
 soti.net/
-splashtop.com/
 spyanywhere.com/
 sunlogin.oray.com/
 superops.ai/
