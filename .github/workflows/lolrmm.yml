@@ -1,4 +1,5 @@
-# This is a basic workflow to help you get started with Actions
+# This workflow uses LOLRMM and filters it based on requirements
+# https://github.com/magicsword-io/LOLRMM
 
 name: lolrmm Domains
 
@@ -26,11 +27,62 @@ jobs:
       - name: Fetch latest LOLRMM domain list
         shell: pwsh
         run: |
+          #Set Domains to not include
           $bypass = @("Level","Splashtop")
+
+          #Get the full data file
           $data = Invoke-RestMethod "https://lolrmm.io/api/rmm_tools.json"
+
+          #Filter out the bypass products
           $filtered = $data | Where-Object {$_.Name -notin $bypass}
-          $domains = $filtered.artifacts.network.domains
-          $domains  | Sort-Object -Unique | Out-File -FilePath "domains-marshfield.txt" -Force
+
+          # Get the remaining domains
+          $rawDomains = $filtered.artifacts.network.domains
+
+          # Define regex for valid domains/IPs (simplified for readability)
+          $validDomainRegex = '^(?!\-)([a-zA-Z0-9\-]+\.)+[a-zA-Z]{2,}$'
+          $validIpRegex = '^(?:\d{1,3}\.){3}\d{1,3}$'
+
+          # Normalize, clean, and expand domains
+          $cleanedDomains = @()
+
+          foreach ($entry in $rawDomains) {
+              $line = $entry.Trim() -replace '\s', ''
+              if ([string]::IsNullOrWhiteSpace($line)) { continue }
+
+              # Remove URL path and port
+              $line = $line -replace '[:/].*$', ''
+
+              # Skip regex/glob-style lines
+              if ($line -match '[\[\]{}]') { continue }
+
+              # Fix improper wildcard syntax
+              if ($line -match '^\*[a-zA-Z0-9]') {
+                  $line = $line -replace '^\*', '*.'
+              }
+
+              # Skip malformed wildcards
+              if ($line -match '^\*\.-') { continue }
+
+              # Validate domain or IP
+              if ($line -match $validDomainRegex -or $line -match $validIpRegex) {
+                  $domain = $line.ToLower()
+
+                  # Add base domain with trailing slash
+                  if ($domain -notmatch '^\*\.') {
+                      $cleanedDomains += "$domain/"
+                      $cleanedDomains += "*.$domain/"
+                  } else {
+                      # If it's already a wildcard, also add base version
+                      $base = $domain -replace '^\*\.', ''
+                      $cleanedDomains += "$domain/"
+                      $cleanedDomains += "$base/"
+                  }
+              }
+          }
+
+          # Export the unique set of domains
+          $cleanedDomains | Sort-Object -Unique | Out-File -FilePath "domains-marshfield.txt" -Force
 
       # Commit Changes
       - name: Commit and push if changed
