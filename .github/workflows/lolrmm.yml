@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: lolrmm Domains
 
 # Controls when the workflow will run
 on:
@@ -30,7 +30,7 @@ jobs:
           $data = Invoke-RestMethod "https://lolrmm.io/api/rmm_tools.json"
           $filtered = $data | Where-Object {$_.Name -notin $bypass}
           $domains = $filtered.artifacts.network.domains
-          $domains  | Sort-Object -Unique | Out-File -FilePath marshfield-domains.txt -Force
+          $domains  | Sort-Object -Unique | Out-File -FilePath "output/marshfield-domains.txt" -Force
 
       # Commit Changes
       - name: Commit and push if changed
