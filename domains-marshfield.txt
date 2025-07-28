@@ -90,7 +90,6 @@
 *.geo.netsupportsoftware.com/
 *.getalphacontrol.com/
 *.getscreen.me/
-*.github.com/
 *.global.rel.tunnels.api.visualstudio.com/
 *.goto.com/
 *.gotohttp.com/
@@ -315,7 +314,6 @@ gatherplace.com/
 geo.netsupportsoftware.com/
 getalphacontrol.com/
 getscreen.me/
-github.com/
 global.rel.tunnels.api.visualstudio.com/
 goto.com/
 gotohttp.com/
