@@ -1,0 +1,44 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  schedule:
+  - cron: '0 8 * * *'  # Runs at 8:00 AM UTC daily
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Fetch latest LOLRMM domain list
+        shell: pwsh
+        run: |
+          $bypass = @("Level","Splashtop")
+          $data = Invoke-RestMethod "https://lolrmm.io/api/rmm_tools.json"
+          $filtered = $data | Where-Object {$_.Name -notin $bypass}
+          $domains = $filtered.artifacts.network.domains
+          $domains  | Sort-Object -Unique | Out-File -FilePath marshfield-domains.txt -Force
+
+      # Commit Changes
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add domains-marshfield.txt
+          git diff --cached --quiet || git commit -m "Daily file update"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
