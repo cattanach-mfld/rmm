@@ -28,7 +28,7 @@ jobs:
         shell: pwsh
         run: |
           #Set Domains to not include
-          $bypass = @("Level","Splashtop")
+          $bypass = @("Level","Splashtop","Level.io")
 
           #Get the full data file
           $data = Invoke-RestMethod "https://lolrmm.io/api/rmm_tools.json"
