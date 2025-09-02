@@ -63,9 +63,12 @@ jobs:
 
               # Skip malformed wildcards
               if ($line -match '^\*\.-') { continue }
-              
+
               # Skip github sites
-              if ($line -like "*github.com") { continue }
+              if ($line -like "*github.com*") { continue }
+
+              # Skip amazon sites
+              if ($line -like "*amazonaws.com*") { continue }
 
               # Validate domain or IP
               if ($line -match $validDomainRegex -or $line -match $validIpRegex) {
