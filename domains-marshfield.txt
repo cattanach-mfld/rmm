@@ -4,7 +4,6 @@
 *.136.243.18.122/
 *.51.255.19.178/
 *.51.255.19.179/
-*.a1-backend-packages.s3.amazonaws.com/
 *.acceo.com/
 *.activation.netreo.net/
 *.aeroadmin.com/
@@ -55,7 +54,6 @@
 *.cloud.tanium.com/
 *.cloudbackup.management/
 *.cloudflare.com/
-*.cognito-idp.us-west-2.amazonaws.com/
 *.community.sophos.com/
 *.connect.acronis.com/
 *.connect.ap.ngrok-agent.com/
@@ -244,7 +242,6 @@
 136.243.18.122/
 51.255.19.178/
 51.255.19.179/
-a1-backend-packages.s3.amazonaws.com/
 acceo.com/
 activation.netreo.net/
 aeroadmin.com/
@@ -295,7 +292,6 @@ cloud.acronis.com/
 cloud.tanium.com/
 cloudbackup.management/
 cloudflare.com/
-cognito-idp.us-west-2.amazonaws.com/
 community.sophos.com/
 connect.acronis.com/
 connect.ap.ngrok-agent.com/
