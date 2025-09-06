@@ -147,7 +147,9 @@
 *.netsupportmanager.com/
 *.neturo.uplus.co.kr/
 *.ngrok.com/
+*.ninja-backup.com/
 *.ninjaone.com/
+*.ninjarmm.net/
 *.nomachine.com/
 *.ocsinventory-ng.org/
 *.one.comodo.com/
@@ -183,6 +185,9 @@
 *.resources.ninjarmm.com/
 *.rmansys.ru/
 *.rmm.barracudamsp.com/
+*.rmmservice.ca/
+*.rmmservice.com.au/
+*.rmmservice.eu/
 *.router15.teamviewer.com/
 *.royalapps.com/
 *.rport.io/
@@ -385,7 +390,9 @@ netreo.com/
 netsupportmanager.com/
 neturo.uplus.co.kr/
 ngrok.com/
+ninja-backup.com/
 ninjaone.com/
+ninjarmm.net/
 nomachine.com/
 ocsinventory-ng.org/
 one.comodo.com/
@@ -421,6 +428,9 @@ rescue-data-cetner.logmein-gateway.com/
 resources.ninjarmm.com/
 rmansys.ru/
 rmm.barracudamsp.com/
+rmmservice.ca/
+rmmservice.com.au/
+rmmservice.eu/
 router15.teamviewer.com/
 royalapps.com/
 rport.io/
