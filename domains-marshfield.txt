@@ -19,6 +19,7 @@
 *.api.rustdesk.com/
 *.app.atera.com/
 *.app.deskday.ai/
+*.app.gorelo.io/
 *.app.kabuto.io/
 *.app.pdq.com/
 *.app.syspectr.com/
@@ -102,12 +103,14 @@
 *.getalphacontrol.com/
 *.getscreen.me/
 *.global.rel.tunnels.api.visualstudio.com/
+*.gorelo-rmm.azurewebsites.net/
 *.goto.com/
 *.gotohttp.com/
 *.goverlan.com/
 *.grtmprod.addigy.com/
 *.guacamole.apache.org/
 *.gw.remotix.com/
+*.gw.usw.gorelo.tech/
 *.helpbeam.software.informer.com/
 *.helpme.net/
 *.helpu.co.kr/
@@ -133,6 +136,7 @@
 *.login.tailscale.com/
 *.logmein-gateway.com/
 *.logmeinrescue.com/
+*.lr.rmm.pod1.usw.gorelo.tech/
 *.manageengine.com/
 *.mdmsupport.comodo.com/
 *.meshcentral.com/
@@ -164,10 +168,12 @@
 *.prod.addigy.com/
 *.ps.atera.com/
 *.ps.pndsn.com/
+*.public.rmm.pod1.usw.gorelo.tech/
 *.pubsub.atera.com/
 *.pubsub.pubnub.com/
 *.pulseway.com/
 *.qq-messenger.en.softonic.com/
+*.r1.rmm.uw.gorelo.tech/
 *.radmin.com/
 *.realvnc.com/
 *.remobo.en.softonic.com/
@@ -209,6 +215,7 @@
 *.sorillus.com/
 *.soti.net/
 *.spyanywhere.com/
+*.sr.rmm.pod1.usw.gorelo.tech/
 *.sunlogin.oray.com/
 *.superops.ai/
 *.supremocontrol.com/
@@ -262,6 +269,7 @@ api.remote.it/
 api.rustdesk.com/
 app.atera.com/
 app.deskday.ai/
+app.gorelo.io/
 app.kabuto.io/
 app.pdq.com/
 app.syspectr.com/
@@ -345,12 +353,14 @@ geo.netsupportsoftware.com/
 getalphacontrol.com/
 getscreen.me/
 global.rel.tunnels.api.visualstudio.com/
+gorelo-rmm.azurewebsites.net/
 goto.com/
 gotohttp.com/
 goverlan.com/
 grtmprod.addigy.com/
 guacamole.apache.org/
 gw.remotix.com/
+gw.usw.gorelo.tech/
 helpbeam.software.informer.com/
 helpme.net/
 helpu.co.kr/
@@ -376,6 +386,7 @@ logicnow.com/
 login.tailscale.com/
 logmein-gateway.com/
 logmeinrescue.com/
+lr.rmm.pod1.usw.gorelo.tech/
 manageengine.com/
 mdmsupport.comodo.com/
 meshcentral.com/
@@ -407,10 +418,12 @@ portal.ehorus.com/
 prod.addigy.com/
 ps.atera.com/
 ps.pndsn.com/
+public.rmm.pod1.usw.gorelo.tech/
 pubsub.atera.com/
 pubsub.pubnub.com/
 pulseway.com/
 qq-messenger.en.softonic.com/
+r1.rmm.uw.gorelo.tech/
 radmin.com/
 realvnc.com/
 remobo.en.softonic.com/
@@ -452,6 +465,7 @@ skyfex.com/
 sorillus.com/
 soti.net/
 spyanywhere.com/
+sr.rmm.pod1.usw.gorelo.tech/
 sunlogin.oray.com/
 superops.ai/
 supremocontrol.com/
