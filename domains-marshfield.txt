@@ -78,6 +78,7 @@
 *.desktopcentral.manageengine.cn/
 *.desktopcentral.manageengine.com.eu/
 *.desktopcentral.manageengine.com/
+*.docs.baramundi.com/
 *.docs.tacticalrmm.com/
 *.domotz.com/
 *.donkz.nl/
@@ -119,6 +120,7 @@
 *.intelliadmin.com/
 *.iperiusremote.com/
 *.islonline.com/
+*.isodownload.baramundi.com/
 *.itsupport247.net/
 *.ivanti.com/
 *.jumpdesktop.com/
@@ -218,7 +220,6 @@
 *.sr.rmm.pod1.usw.gorelo.tech/
 *.sunlogin.oray.com/
 *.superops.ai/
-*.supremocontrol.com/
 *.syncromsp.com/
 *.system-monitor.com/
 *.systemmanager.ru/
@@ -242,6 +243,7 @@
 *.weezo.en.softonic.com/
 *.weezo.net/
 *.wen.laplink.com/
+*.www.baramundi.com/
 *.www.quest.com/
 *.www.remotepc.com/
 *.xeox.com/
@@ -328,6 +330,7 @@ deskroll.com/
 desktopcentral.manageengine.cn/
 desktopcentral.manageengine.com.eu/
 desktopcentral.manageengine.com/
+docs.baramundi.com/
 docs.tacticalrmm.com/
 domotz.com/
 donkz.nl/
@@ -369,6 +372,7 @@ instanthousecall.com/
 intelliadmin.com/
 iperiusremote.com/
 islonline.com/
+isodownload.baramundi.com/
 itsupport247.net/
 ivanti.com/
 jumpdesktop.com/
@@ -468,7 +472,6 @@ spyanywhere.com/
 sr.rmm.pod1.usw.gorelo.tech/
 sunlogin.oray.com/
 superops.ai/
-supremocontrol.com/
 syncromsp.com/
 system-monitor.com/
 systemmanager.ru/
@@ -492,6 +495,7 @@ web.rustdesk.com/
 weezo.en.softonic.com/
 weezo.net/
 wen.laplink.com/
+www.baramundi.com/
 www.quest.com/
 www.remotepc.com/
 xeox.com/
