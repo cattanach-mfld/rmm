@@ -112,9 +112,11 @@
 *.guacamole.apache.org/
 *.gw.remotix.com/
 *.gw.usw.gorelo.tech/
+*.heartbeatrm.com/
 *.helpbeam.software.informer.com/
 *.helpme.net/
 *.helpu.co.kr/
+*.immy.bot/
 *.imperosoftware.com/
 *.instanthousecall.com/
 *.intelliadmin.com/
@@ -364,9 +366,11 @@ grtmprod.addigy.com/
 guacamole.apache.org/
 gw.remotix.com/
 gw.usw.gorelo.tech/
+heartbeatrm.com/
 helpbeam.software.informer.com/
 helpme.net/
 helpu.co.kr/
+immy.bot/
 imperosoftware.com/
 instanthousecall.com/
 intelliadmin.com/
