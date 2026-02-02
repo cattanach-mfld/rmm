@@ -43,7 +43,6 @@
 *.bluetrait.io/
 *.bomgarcloud.com/
 *.boot.net.anydesk.com/
-*.cacerts.thawte.com/
 *.centuriontech.com/
 *.cfcdn.pdq.com/
 *.changes.panorama9.com/
@@ -315,7 +314,6 @@ beanywhere.en.uptodown.com/
 bluetrait.io/
 bomgarcloud.com/
 boot.net.anydesk.com/
-cacerts.thawte.com/
 centuriontech.com/
 cfcdn.pdq.com/
 changes.panorama9.com/
