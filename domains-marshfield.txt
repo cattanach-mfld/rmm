@@ -57,7 +57,6 @@
 *.cloud.acronis.com/
 *.cloud.tanium.com/
 *.cloudbackup.management/
-*.cloudflare.com/
 *.community.sophos.com/
 *.connect.acronis.com/
 *.connect.ap.ngrok-agent.com/
@@ -328,7 +327,6 @@ client.teamviewer.com/
 cloud.acronis.com/
 cloud.tanium.com/
 cloudbackup.management/
-cloudflare.com/
 community.sophos.com/
 connect.acronis.com/
 connect.ap.ngrok-agent.com/
