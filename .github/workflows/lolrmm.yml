@@ -70,6 +70,9 @@ jobs:
               # Skip amazon sites
               if ($line -like "*amazonaws.com*") { continue }
 
+              # Skip cloudflare sites
+              if ($line -like "*cloudflare.com*") { continue }
+
               # Validate domain or IP
               if ($line -match $validDomainRegex -or $line -match $validIpRegex) {
                   $domain = $line.ToLower()
