@@ -256,10 +256,10 @@
 *.ultraviewer.net/
 *.ultravnc.com/
 *.wangwang.taobao.com/
+*.web.laplink.com/
 *.web.rustdesk.com/
 *.weezo.en.softonic.com/
 *.weezo.net/
-*.wen.laplink.com/
 *.www.baramundi.com/
 *.www.hoptodesk.com/
 *.www.quest.com/
@@ -526,10 +526,10 @@ turn.hoptodesk.com/
 ultraviewer.net/
 ultravnc.com/
 wangwang.taobao.com/
+web.laplink.com/
 web.rustdesk.com/
 weezo.en.softonic.com/
 weezo.net/
-wen.laplink.com/
 www.baramundi.com/
 www.hoptodesk.com/
 www.quest.com/
