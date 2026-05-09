@@ -19,6 +19,7 @@
 *.api.idrive.com/
 *.api.netbird.io/
 *.api.remote.it/
+*.api.remsupp.com/
 *.api.rustdesk.com/
 *.app.atera.com/
 *.app.deskday.ai/
@@ -26,7 +27,6 @@
 *.app.kabuto.io/
 *.app.lunixar.com/
 *.app.pdq.com/
-*.app.syspectr.com/
 *.appcdn.atera.com/
 *.assist.zoho.com/
 *.atera-agent-heartbeat.servicebus.windows.net/
@@ -89,6 +89,7 @@
 *.download.cnet.com/
 *.download.hoptodesk.com/
 *.download.pilixo.com/
+*.download.remsupp.com/
 *.downloads.lunixar.com/
 *.downloads.zohocdn.com/
 *.downloads.zohodl.com.cn/
@@ -170,6 +171,7 @@
 *.netreo.com/
 *.netsupportmanager.com/
 *.neturo.uplus.co.kr/
+*.netviewer.com/
 *.ngrok.com/
 *.ninja-backup.com/
 *.ninjaone.com/
@@ -198,6 +200,7 @@
 *.radmin.com/
 *.rdp.duetdisplay.com/
 *.realvnc.com/
+*.remmon.hu/
 *.remobo.en.softonic.com/
 *.remote.it/
 *.remote.management/
@@ -216,6 +219,7 @@
 *.rmmservice.ca/
 *.rmmservice.com.au/
 *.rmmservice.eu/
+*.rodex.cc/
 *.router15.teamviewer.com/
 *.royalapps.com/
 *.rport.io/
@@ -243,6 +247,7 @@
 *.sunlogin.oray.com/
 *.superops.ai/
 *.syncromsp.com/
+*.syspectr.com/
 *.system-monitor.com/
 *.systemmanager.ru/
 *.systemmonitor.co.uk/
@@ -270,6 +275,7 @@
 *.www.hoptodesk.com/
 *.www.quest.com/
 *.www.remotepc.com/
+*.www.rodex.cc/
 *.xeox.com/
 *.zabbix.com/
 *.zerotier.com/
@@ -295,6 +301,7 @@ api.hoptodesk.com/
 api.idrive.com/
 api.netbird.io/
 api.remote.it/
+api.remsupp.com/
 api.rustdesk.com/
 app.atera.com/
 app.deskday.ai/
@@ -302,7 +309,6 @@ app.gorelo.io/
 app.kabuto.io/
 app.lunixar.com/
 app.pdq.com/
-app.syspectr.com/
 appcdn.atera.com/
 assist.zoho.com/
 atera-agent-heartbeat.servicebus.windows.net/
@@ -365,6 +371,7 @@ donkz.nl/
 download.cnet.com/
 download.hoptodesk.com/
 download.pilixo.com/
+download.remsupp.com/
 downloads.lunixar.com/
 downloads.zohocdn.com/
 downloads.zohodl.com.cn/
@@ -446,6 +453,7 @@ netbird.io/
 netreo.com/
 netsupportmanager.com/
 neturo.uplus.co.kr/
+netviewer.com/
 ngrok.com/
 ninja-backup.com/
 ninjaone.com/
@@ -474,6 +482,7 @@ r1.rmm.uw.gorelo.tech/
 radmin.com/
 rdp.duetdisplay.com/
 realvnc.com/
+remmon.hu/
 remobo.en.softonic.com/
 remote.it/
 remote.management/
@@ -492,6 +501,7 @@ rmm.barracudamsp.com/
 rmmservice.ca/
 rmmservice.com.au/
 rmmservice.eu/
+rodex.cc/
 router15.teamviewer.com/
 royalapps.com/
 rport.io/
@@ -519,6 +529,7 @@ sr.rmm.pod1.usw.gorelo.tech/
 sunlogin.oray.com/
 superops.ai/
 syncromsp.com/
+syspectr.com/
 system-monitor.com/
 systemmanager.ru/
 systemmonitor.co.uk/
@@ -546,6 +557,7 @@ www.baramundi.com/
 www.hoptodesk.com/
 www.quest.com/
 www.remotepc.com/
+www.rodex.cc/
 xeox.com/
 zabbix.com/
 zerotier.com/
