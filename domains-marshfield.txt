@@ -9,6 +9,7 @@
 *.51.255.19.178/
 *.51.255.19.179/
 *.acceo.com/
+*.account.flexihub.com/
 *.activation.netreo.net/
 *.aeroadmin.com/
 *.agent-api.atera.com/
@@ -21,6 +22,7 @@
 *.ammyy.com/
 *.anyplace-control.com/
 *.api.fdcollab.com/
+*.api.helpwire.app/
 *.api.hoptodesk.com/
 *.api.idrive.com/
 *.api.localxpose.io/
@@ -144,6 +146,7 @@
 *.gd.bj2.xyz/
 *.geo.netsupportsoftware.com/
 *.gerwconline.blob.core.windows.net/
+*.get.helpwire.app/
 *.getalphacontrol.com/
 *.getscreen.me/
 *.ghcr.io/
@@ -167,6 +170,7 @@
 *.helpbeam.software.informer.com/
 *.helpme.net/
 *.helpu.co.kr/
+*.helpwire.app/
 *.hoptodesk.com/
 *.idrive.com/
 *.image.getscreen.me/
@@ -321,7 +325,10 @@
 *.soti.net/
 *.spyanywhere.com/
 *.sr.rmm.pod1.usw.gorelo.tech/
+*.staging.helpwire.app/
 *.static.freshdev.io/
+*.stun.helpwire.app/
+*.stunserver.stunprotocol.org/
 *.sunlogin.oray.com/
 *.superops.ai/
 *.support.faronics.com/
@@ -398,6 +405,7 @@
 51.255.19.178/
 51.255.19.179/
 acceo.com/
+account.flexihub.com/
 activation.netreo.net/
 aeroadmin.com/
 agent-api.atera.com/
@@ -410,6 +418,7 @@ agents.addigy.com/
 ammyy.com/
 anyplace-control.com/
 api.fdcollab.com/
+api.helpwire.app/
 api.hoptodesk.com/
 api.idrive.com/
 api.localxpose.io/
@@ -533,6 +542,7 @@ gatherplace.com/
 gd.bj2.xyz/
 geo.netsupportsoftware.com/
 gerwconline.blob.core.windows.net/
+get.helpwire.app/
 getalphacontrol.com/
 getscreen.me/
 ghcr.io/
@@ -556,6 +566,7 @@ help.invgate.com/
 helpbeam.software.informer.com/
 helpme.net/
 helpu.co.kr/
+helpwire.app/
 hoptodesk.com/
 idrive.com/
 image.getscreen.me/
@@ -710,7 +721,10 @@ sorillus.com/
 soti.net/
 spyanywhere.com/
 sr.rmm.pod1.usw.gorelo.tech/
+staging.helpwire.app/
 static.freshdev.io/
+stun.helpwire.app/
+stunserver.stunprotocol.org/
 sunlogin.oray.com/
 superops.ai/
 support.faronics.com/
