@@ -1,4 +1,3 @@
-*.01com.com/
 *.136.243.104.235/
 *.136.243.104.242/
 *.136.243.18.122/
@@ -8,7 +7,6 @@
 *.198.46.178.135/
 *.51.255.19.178/
 *.51.255.19.179/
-*.acceo.com/
 *.account.flexihub.com/
 *.activation.netreo.net/
 *.aeroadmin.com/
@@ -47,18 +45,18 @@
 *.atera.pubnubapi.com/
 *.atled.syspectr.com/
 *.attachments.servably.com/
-*.au.pcmag.com/
 *.auth.api.remote.it/
 *.auvik.com/
 *.barracudamsp.com/
 *.basecamp.com/
 *.beamyourscreen.com/
 *.beanywhere.com/
-*.beanywhere.en.uptodown.com/
 *.bluetrait.io/
 *.bomgarcloud.com/
 *.boot.net.anydesk.com/
 *.c.mid.al/
+*.cc.centrastage.net/
+*.cell-1.domotz.com/
 *.centuriontech.com/
 *.cfcdn.pdq.com/
 *.changes.panorama9.com/
@@ -77,7 +75,6 @@
 *.cloud.shellhub.io/
 *.cloud.tanium.com/
 *.cloudbackup.management/
-*.community.sophos.com/
 *.connect.acronis.com/
 *.connect.ap.ngrok-agent.com/
 *.connect.au.ngrok-agent.com/
@@ -91,10 +88,8 @@
 *.content.rview.com/
 *.control.connectwise.com/
 *.crossloop.en.softonic.com/
-*.crosstecsoftware.com/
 *.dameware.com/
 *.dataplicity.com/
-*.datto.com/
 *.deepfreeze.com/
 *.deploy.faronics.com/
 *.deploy01.kaseya.com/
@@ -111,7 +106,6 @@
 *.docs.tacticalrmm.com/
 *.domotz.com/
 *.donkz.nl/
-*.download.cnet.com/
 *.download.hoptodesk.com/
 *.download.pilixo.com/
 *.download.remsupp.com/
@@ -126,7 +120,6 @@
 *.emcosoftware.com/
 *.encapto.com/
 *.ericom.com/
-*.eset.com/
 *.everywhere.laplink.com/
 *.ezhelp.co.kr/
 *.faronics.com/
@@ -179,7 +172,6 @@
 *.instances-info.invgate.com/
 *.instances-list.invgate.com/
 *.instanthousecall.com/
-*.intelliadmin.com/
 *.invgate.com/
 *.invgate.net/
 *.iperiusremote.com/
@@ -198,7 +190,6 @@
 *.lb-insight-001.invgate.net/
 *.ld.aurelius.host/
 *.le.laplink.com/
-*.learn.microsoft.com/
 *.litemanager.com/
 *.live.screenconnect.com/
 *.localxpose.io/
@@ -210,6 +201,7 @@
 *.lr.rmm.pod1.usw.gorelo.tech/
 *.lunixar.com/
 *.mail.metaquest.com/
+*.managedsupport.kaseya.net/
 *.manageengine.com/
 *.mdmsupport.comodo.com/
 *.meshcentral.com/
@@ -225,6 +217,7 @@
 *.my.splashtop.com/
 *.my1cloudlive.com/
 *.my2cloudlive.com/
+*.mygreenpc.com/
 *.myivo-server.software.informer.com/
 *.mymeetinggoogle.com/
 *.n-able.com/
@@ -249,7 +242,6 @@
 *.one.comodo.com/
 *.packagesstore.blob.core.windows.net/
 *.panorama9.com/
-*.parallels.com/
 *.parsec.app/
 *.parsec.gg/
 *.pcvisit.de/
@@ -267,7 +259,6 @@
 *.radmin.com/
 *.raw.githubusercontent.com/
 *.rdp.duetdisplay.com/
-*.realvnc.com/
 *.relay.netbird.io/
 *.releases.invgate.com/
 *.remmon.hu/
@@ -276,6 +267,7 @@
 *.remote.management/
 *.remoteaccess.itarian.com/
 *.remotecall.com/
+*.remotedesktop-pa.googleapis.com/
 *.remotedesktop.google.com/
 *.remotepass.com/
 *.remotepc.com/
@@ -287,7 +279,6 @@
 *.remotepro-us-west-2.faronics.com/
 *.remoteutilities.com/
 *.repairshopr.com/
-*.repairtechsolutions.com/
 *.rescue-data-cetner.logmein-gateway.com/
 *.resources.ninjarmm.com/
 *.rism.pages.dev/
@@ -305,20 +296,24 @@
 *.rudesktop.ru/
 *.runsmart.io/
 *.rustdesk.com/
+*.search.namequery.com/
 *.secure.instanthousecall.com/
 *.seetrol.co.kr/
 *.senso.cloud/
 *.sentry.dev.teramind.co/
 *.serv.superopsalpha.com/
 *.servably.com/
+*.server.absolute.com/
 *.servicedesk.itarian.com/
 *.services.glpi-network.com/
+*.set.me/
+*.setme.net/
 *.shellhub.io/
 *.showmypc.com/
 *.signal.hoptodesk.com/
 *.signal.netbird.io/
+*.signalserver.xyz/
 *.simple-help.com/
-*.site24x7.com/
 *.skyfex.com/
 *.socket.lunixar.com/
 *.sorillus.com/
@@ -335,14 +330,12 @@
 *.syncromsp.com/
 *.syspectr.com/
 *.system-monitor.com/
-*.systemmanager.ru/
 *.systemmonitor.co.uk/
 *.systemmonitor.eu.com/
 *.systemmonitor.us.cdn.cloudflare.net/
 *.systemmonitor.us/
 *.taf.teamviewer.com/
 *.tailscale.com/
-*.tanium.com/
 *.tele-desk.com/
 *.telesupportgroup.com/
 *.teramind.co/
@@ -364,7 +357,6 @@
 *.vizor.cloud/
 *.wangwang.taobao.com/
 *.web-16fe.app/
-*.web.laplink.com/
 *.web.rustdesk.com/
 *.weezo.en.softonic.com/
 *.weezo.net/
@@ -381,7 +373,6 @@
 *.www.metaquest.com/
 *.www.monitic.com/
 *.www.pitunnel.com/
-*.www.quest.com/
 *.www.remotepc.com/
 *.www.rodex.cc/
 *.www.shellhub.io/
@@ -393,8 +384,6 @@
 *.xeox.com/
 *.zabbix.com/
 *.zerotier.com/
-*.zoho.com/
-01com.com/
 136.243.104.235/
 136.243.104.242/
 136.243.18.122/
@@ -404,7 +393,6 @@
 198.46.178.135/
 51.255.19.178/
 51.255.19.179/
-acceo.com/
 account.flexihub.com/
 activation.netreo.net/
 aeroadmin.com/
@@ -443,18 +431,18 @@ atera-agent-heartbeat.servicebus.windows.net/
 atera.pubnubapi.com/
 atled.syspectr.com/
 attachments.servably.com/
-au.pcmag.com/
 auth.api.remote.it/
 auvik.com/
 barracudamsp.com/
 basecamp.com/
 beamyourscreen.com/
 beanywhere.com/
-beanywhere.en.uptodown.com/
 bluetrait.io/
 bomgarcloud.com/
 boot.net.anydesk.com/
 c.mid.al/
+cc.centrastage.net/
+cell-1.domotz.com/
 centuriontech.com/
 cfcdn.pdq.com/
 changes.panorama9.com/
@@ -473,7 +461,6 @@ cloud.faronics.com/
 cloud.shellhub.io/
 cloud.tanium.com/
 cloudbackup.management/
-community.sophos.com/
 connect.acronis.com/
 connect.ap.ngrok-agent.com/
 connect.au.ngrok-agent.com/
@@ -487,10 +474,8 @@ connectwise.com/
 content.rview.com/
 control.connectwise.com/
 crossloop.en.softonic.com/
-crosstecsoftware.com/
 dameware.com/
 dataplicity.com/
-datto.com/
 deepfreeze.com/
 deploy.faronics.com/
 deploy01.kaseya.com/
@@ -507,7 +492,6 @@ docs.invgate.net/
 docs.tacticalrmm.com/
 domotz.com/
 donkz.nl/
-download.cnet.com/
 download.hoptodesk.com/
 download.pilixo.com/
 download.remsupp.com/
@@ -522,7 +506,6 @@ electric.ai/
 emcosoftware.com/
 encapto.com/
 ericom.com/
-eset.com/
 everywhere.laplink.com/
 ezhelp.co.kr/
 faronics.com/
@@ -575,7 +558,6 @@ imperosoftware.com/
 instances-info.invgate.com/
 instances-list.invgate.com/
 instanthousecall.com/
-intelliadmin.com/
 invgate.com/
 invgate.net/
 iperiusremote.com/
@@ -594,7 +576,6 @@ komari-document.pages.dev/
 lb-insight-001.invgate.net/
 ld.aurelius.host/
 le.laplink.com/
-learn.microsoft.com/
 litemanager.com/
 live.screenconnect.com/
 localxpose.io/
@@ -606,6 +587,7 @@ logmeinrescue.com/
 lr.rmm.pod1.usw.gorelo.tech/
 lunixar.com/
 mail.metaquest.com/
+managedsupport.kaseya.net/
 manageengine.com/
 mdmsupport.comodo.com/
 meshcentral.com/
@@ -621,6 +603,7 @@ my.kickidler.com/
 my.splashtop.com/
 my1cloudlive.com/
 my2cloudlive.com/
+mygreenpc.com/
 myivo-server.software.informer.com/
 mymeetinggoogle.com/
 n-able.com/
@@ -645,7 +628,6 @@ ocsinventory-ng.org/
 one.comodo.com/
 packagesstore.blob.core.windows.net/
 panorama9.com/
-parallels.com/
 parsec.app/
 parsec.gg/
 pcvisit.de/
@@ -663,7 +645,6 @@ r1.rmm.uw.gorelo.tech/
 radmin.com/
 raw.githubusercontent.com/
 rdp.duetdisplay.com/
-realvnc.com/
 relay.netbird.io/
 releases.invgate.com/
 remmon.hu/
@@ -672,6 +653,7 @@ remote.it/
 remote.management/
 remoteaccess.itarian.com/
 remotecall.com/
+remotedesktop-pa.googleapis.com/
 remotedesktop.google.com/
 remotepass.com/
 remotepc.com/
@@ -683,7 +665,6 @@ remotepro-us-east-1.faronics.com/
 remotepro-us-west-2.faronics.com/
 remoteutilities.com/
 repairshopr.com/
-repairtechsolutions.com/
 rescue-data-cetner.logmein-gateway.com/
 resources.ninjarmm.com/
 rism.pages.dev/
@@ -701,20 +682,24 @@ rt.teramind.co/
 rudesktop.ru/
 runsmart.io/
 rustdesk.com/
+search.namequery.com/
 secure.instanthousecall.com/
 seetrol.co.kr/
 senso.cloud/
 sentry.dev.teramind.co/
 serv.superopsalpha.com/
 servably.com/
+server.absolute.com/
 servicedesk.itarian.com/
 services.glpi-network.com/
+set.me/
+setme.net/
 shellhub.io/
 showmypc.com/
 signal.hoptodesk.com/
 signal.netbird.io/
+signalserver.xyz/
 simple-help.com/
-site24x7.com/
 skyfex.com/
 socket.lunixar.com/
 sorillus.com/
@@ -731,14 +716,12 @@ support.faronics.com/
 syncromsp.com/
 syspectr.com/
 system-monitor.com/
-systemmanager.ru/
 systemmonitor.co.uk/
 systemmonitor.eu.com/
 systemmonitor.us.cdn.cloudflare.net/
 systemmonitor.us/
 taf.teamviewer.com/
 tailscale.com/
-tanium.com/
 tele-desk.com/
 telesupportgroup.com/
 teramind.co/
@@ -760,7 +743,6 @@ vector-networks.com/
 vizor.cloud/
 wangwang.taobao.com/
 web-16fe.app/
-web.laplink.com/
 web.rustdesk.com/
 weezo.en.softonic.com/
 weezo.net/
@@ -777,7 +759,6 @@ www.komari.wiki/
 www.metaquest.com/
 www.monitic.com/
 www.pitunnel.com/
-www.quest.com/
 www.remotepc.com/
 www.rodex.cc/
 www.shellhub.io/
@@ -789,4 +770,3 @@ www.vizor.cloud/
 xeox.com/
 zabbix.com/
 zerotier.com/
-zoho.com/
