@@ -54,6 +54,8 @@
 *.bluetrait.io/
 *.bomgarcloud.com/
 *.boot.net.anydesk.com/
+*.breeze.app/
+*.breezermm.com/
 *.c.mid.al/
 *.cc.centrastage.net/
 *.cdn.teleport.dev/
@@ -122,6 +124,7 @@
 *.emcosoftware.com/
 *.encapto.com/
 *.ericom.com/
+*.eu.2breeze.app/
 *.everywhere.laplink.com/
 *.ezhelp.co.kr/
 *.faronics.com/
@@ -358,6 +361,7 @@
 *.ultraviewer.net/
 *.ultravnc.com/
 *.upd.faronicslabs.com/
+*.us.2breeze.app/
 *.usage.teleport.dev/
 *.vector-networks.com/
 *.vizor.cloud/
@@ -447,6 +451,8 @@ beanywhere.com/
 bluetrait.io/
 bomgarcloud.com/
 boot.net.anydesk.com/
+breeze.app/
+breezermm.com/
 c.mid.al/
 cc.centrastage.net/
 cdn.teleport.dev/
@@ -515,6 +521,7 @@ electric.ai/
 emcosoftware.com/
 encapto.com/
 ericom.com/
+eu.2breeze.app/
 everywhere.laplink.com/
 ezhelp.co.kr/
 faronics.com/
@@ -751,6 +758,7 @@ turn.monitic.com/
 ultraviewer.net/
 ultravnc.com/
 upd.faronicslabs.com/
+us.2breeze.app/
 usage.teleport.dev/
 vector-networks.com/
 vizor.cloud/
