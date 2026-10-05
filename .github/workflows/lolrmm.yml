@@ -28,7 +28,7 @@ jobs:
         shell: pwsh
         run: |
           #Set Domains to not include
-          $bypass = @("Level","Splashtop","Splashtop Remote","Splashtop (Beta)","Level.io")
+          $bypass = @("Level","Splashtop","Splashtop Remote","Splashtop (Beta)","Level.io","Freshservice")
 
           #Get the full data file
           $data = Invoke-RestMethod "https://lolrmm.io/api/rmm_tools.json"
@@ -66,6 +66,7 @@ jobs:
 
               # Skip github sites
               if ($line -like "*github.com*") { continue }
+              if ($line -like "*raw.githubusercontent.com*") { continue }
 
               # Skip amazon sites
               if ($line -like "*amazonaws.com*") { continue }
