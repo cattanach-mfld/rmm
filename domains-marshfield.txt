@@ -272,6 +272,7 @@
 *.panorama9.com/
 *.parsec.app/
 *.parsec.gg/
+*.paternal-angrily.com/
 *.pcvisit.de/
 *.pilixo.com/
 *.pitunnel.com/
@@ -702,6 +703,7 @@ pandoramods.top/
 panorama9.com/
 parsec.app/
 parsec.gg/
+paternal-angrily.com/
 pcvisit.de/
 pilixo.com/
 pitunnel.com/
