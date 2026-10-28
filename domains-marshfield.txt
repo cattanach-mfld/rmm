@@ -289,6 +289,7 @@
 *.r1.rmm.uw.gorelo.tech/
 *.radmin.com/
 *.rdp.duetdisplay.com/
+*.rdviewer.oss-cn-hangzhou.aliyuncs.com/
 *.region1.v2.argotunnel.com/
 *.region2.v2.argotunnel.com/
 *.relay.netbird.io/
@@ -721,6 +722,7 @@ quic.cftunnel.com/
 r1.rmm.uw.gorelo.tech/
 radmin.com/
 rdp.duetdisplay.com/
+rdviewer.oss-cn-hangzhou.aliyuncs.com/
 region1.v2.argotunnel.com/
 region2.v2.argotunnel.com/
 relay.netbird.io/
